@@ -32,8 +32,10 @@ Webová aplikácia na správu geozón pre drony. - Aj tak je možné, že to pra
 - Nahrávanie geozón — ✅ Hotové  
 - API na sťahovanie geozón — ✅ Hotové  
 - Live preview — ✅ Hotové  
-- Úprava metadát — ✅ Hotové  
+- Úprava metadát — ✅ Hotové
 
+**TODO**:
+- Odstrániť ts-ignore
 ---
 
 ### 3. `mobile` — **WIP** (nezverejnené)
