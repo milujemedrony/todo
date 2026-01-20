@@ -39,8 +39,21 @@ Webová aplikácia na správu geozón pre drony.
 ### 3. `mobile` — **WIP** (nezverejnené)
 Mobilná aplikácia.
 
-**Detaily**
-- Zatiaľ nezverejnené
+**Stav**
+- Autentifikácia — ✅ Hotové  
+- Zobrazovanie geozón — ✅ Hotové  
+- Zobrazovanie mapy — ✅ Hotové
+- Zobrazovanie aktuálneho počasia — ✅ Hotové
+- Nastavenie letovej zóny — ✅ Hotové
+- Pridanie vlastnej zóny — ✅ Hotové
+
+**TODO**
+- Sťahovanie geozón
+- Nahranie vlastnej letovej zóny do API
+- Zobrazenie informácii o geozóne
+- Podrobné informácie o geozóne (kontakt číslo, prevádzkové hodiny etc...)
+- *CTR ZÓNY SU PAIN!!! NENAVIDIM ICH ROBIT <3333 KEBY BOLA NEJAKA JEDNODUCHA GEODATA DOSTUPNA ZO SLOVENSKA MILUJEM TO <3*
+- Omnoho viac....
 
 ---
 
@@ -49,6 +62,10 @@ Backend API pre celý ekosystém.
 
 **Stav**
 - Autentifikácia používateľov — ✅ Hotové  
+
+**TODO**
+- Prijímanie dát z letových zón
+- Odosielanie dát letových zón
 
 **Plánované / nápady do budúcna**
 - Verejné profily
