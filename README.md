@@ -24,7 +24,7 @@ Hlavná verejná webová stránka.
 ---
 
 ### 2. `geozones-manager` — **WIP** (zverejnené)
-Webová aplikácia na správu geozón pre drony.
+Webová aplikácia na správu geozón pre drony. - Aj tak je možné, že to pravdepodobne budem celé prerábať na map tiles (optimalizácia)
 
 **Stav**
 - Autentifikácia — ✅ Hotové  
