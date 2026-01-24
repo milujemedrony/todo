@@ -50,6 +50,7 @@ Mobilná aplikácia.
 - Pridanie vlastnej zóny — ✅ Hotové
 
 **TODO**
+- Android support (doteraz Aplikácia testovaná LEN na iOS) — 🍊 WIP
 - Sťahovanie geozón
 - Nahranie vlastnej letovej zóny do API
 - Zobrazenie informácii o geozóne
