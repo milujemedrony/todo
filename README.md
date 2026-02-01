@@ -52,6 +52,8 @@ Mobilná aplikácia.
 **TODO**
 - Android support — ✅/🍊 WIP - Aplikácia, má hotový základ pripravený na spustenie pre Android. Avšak nie všetky funkcie aplikácie sú, ešte dokončené, tým pádom niesu na Androide, najskôr sa robí iOS :)
 - Sťahovanie geozón
+- Nastavenie informácíi o vašom drone - 🍊
+- Zobrazenie flight history vaších zón - 🍊
 - Nahranie vlastnej letovej zóny do API
 - Zobrazenie informácii o geozóne
 - Podrobné informácie o geozóne (kontakt číslo, prevádzkové hodiny etc...)
