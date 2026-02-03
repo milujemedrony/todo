@@ -52,8 +52,8 @@ Mobilná aplikácia.
 **TODO**
 - Android support — ✅/🍊 WIP - Aplikácia, má hotový základ pripravený na spustenie pre Android. Avšak nie všetky funkcie aplikácie sú, ešte dokončené, tým pádom niesu na Androide, najskôr sa robí iOS :)
 - Sťahovanie geozón
-- Nastavenie informácíi o vašom drone - 🍊
-- Zobrazenie flight history vaších zón - 🍊
+- Nastavenie informácíi o vašom drone - 🍊 - Finálne úpravy
+- Zobrazenie flight history vaších zón - 🍊 - Finálne úpravy
 - Nahranie vlastnej letovej zóny do API
 - Zobrazenie informácii o geozóne
 - Podrobné informácie o geozóne (kontakt číslo, prevádzkové hodiny etc...)
@@ -62,14 +62,14 @@ Mobilná aplikácia.
 
 ---
 
-### 4. `api.milujemedrony.sk` — **WIP** (nezverejnené)
+### 4. `api.milujemedrony.sk` — **WIP** (zverejnené)
 Backend API pre celý ekosystém.
 
 **Stav**
 - Autentifikácia používateľov — ✅ Hotové  
+- Prijímanie dát z letových zón — ✅ Hotové
 
 **TODO**
-- Prijímanie dát z letových zón
 - Odosielanie dát letových zón
 
 **Plánované / nápady do budúcna**
