@@ -59,6 +59,9 @@ Mobilná aplikácia.
 - Opraviť dark/light mode
 - Implementovať Remote ID "finder?"
 - Zdroje aplikácie (weather data... zone data...)
+- Google/Apple login
+- Registrácia do Aplikácia (NEPOVINNÁ!) - Fixnut inputy na ostatne veci ako (meno atd..)
+- Change user info button
 
 
 ---
