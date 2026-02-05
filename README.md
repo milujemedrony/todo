@@ -72,9 +72,9 @@ Backend API pre celý ekosystém.
 **Stav**
 - Autentifikácia používateľov — ✅ Hotové  
 - Prijímanie dát z letových zón — ✅ Hotové
+- Odosielanie dát letových zón — ✅ Hotové
 
 **TODO**
-- Odosielanie dát letových zón
 
 **Plánované / nápady do budúcna**
 - Verejné profily
