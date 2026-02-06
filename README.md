@@ -53,13 +53,13 @@ Mobilná aplikácia.
 - Nastavenie letovej zóny — ✅ Hotové
 - Pridanie vlastnej zóny — ✅ Hotové
 - Zobrazenie informácii o geozóne — ✅ Hotové
-
+- Podrobné informácie o geozóne (kontakt číslo, prevádzkové hodiny etc...) — ✅ Hotové
+- 
 **TODO**
 - Android support — ✅/🍊 WIP - Aplikácia, má hotový základ pripravený na spustenie pre Android. Avšak nie všetky funkcie aplikácie sú, ešte dokončené, tým pádom niesu na Androide, najskôr sa robí iOS :)
 - Sťahovanie geozón
 - Nastavenie informácíi o vašom drone - 🍊 - Finálne úpravy
 - Zobrazenie flight history vaších zón - 🍊 - Finálne úpravy
-- Podrobné informácie o geozóne (kontakt číslo, prevádzkové hodiny etc...) - *CTR ZÓNY SU PAIN!!!*
 - Opraviť dark/light mode
 - Implementovať Remote ID "finder?"
 - Zdroje aplikácie (weather data... zone data...)
