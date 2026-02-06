@@ -15,11 +15,15 @@ Hlavná verejná webová stránka.
 
 **Stav**
 - Landing page (hero, základná štruktúra) — ✅ Hotové
+- Blog — ✅ Hotové
+- Editor Blogov — ✅ Hotové
+- Admin webpage — ✅ Hotové
 
 **TODO**
 - Kontaktná stránka
-- Online mapa
-- Blog
+
+**Do budúcna**
+- Statická mapa zón aj pre Webové rozhranie (asi nie teraz)
 
 ---
 
