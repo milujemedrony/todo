@@ -2,6 +2,8 @@
 
 Tento repozitár slúži ako prehľad stavu a plánovaných úloh pre všetky repozitáre v projekte **milujemedrony**.
 
+⚠️ **Kvôli skúškovému teraz nestíham programovať naplno, no projekt stále pravidelne "skúmam"** A nezostáva nám veľa :)
+
 > **Poznámka**  
 > Projekt vyvíjam sám popri štúdiu. Ide o side-project bez pevného harmonogramu.  
 > Motivácia: vytvoriť alternatívu, pretože existujúce riešenia (napr. Mamdron) mi nevyhovujú.
@@ -27,7 +29,7 @@ Hlavná verejná webová stránka.
 
 ---
 
-### 2. `geozones-manager` — **WIP** (zverejnené)
+### 2. `geozones-manager` — **WIP** (nezverejnené)
 Webová aplikácia na správu geozón pre drony. - Aj tak je možné, že to pravdepodobne budem celé prerábať na map tiles (optimalizácia)
 
 **Stav**
@@ -70,7 +72,7 @@ Mobilná aplikácia.
 
 ---
 
-### 4. `api.milujemedrony.sk` — **WIP** (zverejnené)
+### 4. `api.milujemedrony.sk` — **WIP** (nezverejnené)
 Backend API pre celý ekosystém.
 
 **Stav**
@@ -87,7 +89,7 @@ Backend API pre celý ekosystém.
 
 ---
 
-### 5. `discord-bot` — **Nezačaté**
+### 5. `discord-bot` — **Nezačaté** - Nepotrebné pre prvotné spustenie aplikácie
 Discord bot pre komunitu.
 
 **Detaily**
@@ -95,7 +97,7 @@ Discord bot pre komunitu.
 
 ---
 
-### 6. `admin-manager` — **Nezačaté**
+### 6. `admin-manager` — **Nezačaté** - Nepotrebné pre prvotné spustenie aplikácie
 Interný administračný panel.
 
 **Detaily**
