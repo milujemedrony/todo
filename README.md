@@ -29,7 +29,7 @@ Hlavná verejná webová stránka.
 
 ---
 
-### 2. `geozones-manager` — **WIP** (nezverejnené)
+### 2. `geozones-manager` — **WIP** https://geozones.milujemedrony.sk/
 Webová aplikácia na správu geozón pre drony. - Aj tak je možné, že to pravdepodobne budem celé prerábať na map tiles (optimalizácia)
 
 **Stav**
@@ -72,7 +72,7 @@ Mobilná aplikácia.
 
 ---
 
-### 4. `api.milujemedrony.sk` — **WIP** (nezverejnené)
+### 4. `api.milujemedrony.sk` — **WIP** http://api-dev.milujemedrony.sk/
 Backend API pre celý ekosystém.
 
 **Stav**
@@ -105,7 +105,7 @@ Interný administračný panel.
 
 ---
 
-### 7. `comming-soon-page` — **Dokončené** (nezverejnené)
+### 7. `comming-soon-page` — **Dokončené** https://milujemedrony.sk/
 Dočasná „coming soon“ stránka.
 
 ---
