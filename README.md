@@ -30,7 +30,7 @@ Hlavná verejná webová stránka.
 ---
 
 ### 2. `geozones-manager` — **WIP** https://geozones.milujemedrony.sk/
-Webová aplikácia na správu geozón pre drony. - Aj tak je možné, že to pravdepodobne budem celé prerábať na map tiles (optimalizácia)
+Webová aplikácia na správu geozón pre drony.
 
 **Stav**
 - Autentifikácia — ✅ Hotové  
@@ -42,6 +42,7 @@ Webová aplikácia na správu geozón pre drony. - Aj tak je možné, že to pra
 
 **TODO**:
 - Odstrániť ts-ignore
+- Pridať map tiles generaciu
 ---
 
 ### 3. `mobile` — **WIP** (nezverejnené)
@@ -66,9 +67,8 @@ Mobilná aplikácia.
 - Implementovať Remote ID "finder?"
 - Zdroje aplikácie (weather data... zone data...)
 - Google/Apple login
-- Registrácia do Aplikácia (NEPOVINNÁ!) - Fixnut inputy na ostatne veci ako (meno atd..)
-- Change user info button
-
+- Registrácia do Aplikácia (NEPOVINNÁ!) - Fixnut inputy na ostatne veci ako (meno atd..) - 🍊 - Finálne úpravy
+- Forgot password - 🍊 - Finálne úpravy
 
 ---
 
@@ -79,6 +79,8 @@ Backend API pre celý ekosystém.
 - Autentifikácia používateľov — ✅ Hotové  
 - Prijímanie dát z letových zón — ✅ Hotové
 - Odosielanie dát letových zón — ✅ Hotové
+- Registrácia používateľov — ✅ Hotové
+- Zabudnuté heslo — ✅ Hotové  
 
 **TODO**
 
