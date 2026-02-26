@@ -91,17 +91,10 @@ Backend API pre celý ekosystém.
 - Nahrávanie fotiek
 - Ďalšie verejné endpointy
 
----
-
-### 5. `discord-bot` — **Nezačaté** - Nepotrebné pre prvotné spustenie aplikácie
-Discord bot pre komunitu.
-
-**Detaily**
-- Zatiaľ nezverejnené
 
 ---
 
-### 6. `api-verify` — **Dokončené** https://api-verify.milujemedrony.sk/
+### 5. `api-verify` — **Dokončené** https://api-verify.milujemedrony.sk/
 Webová UI stránka, pre registráciu/obnovu hesla.
 
 Nechcel som to dávať do main-webu, keďže tam sú už blogy :)
@@ -111,7 +104,7 @@ Nechcel som to dávať do main-webu, keďže tam sú už blogy :)
 
 ---
 
-### 7. `comming-soon-page` — **Dokončené** https://milujemedrony.sk/
+### 6. `comming-soon-page` — **Dokončené** https://milujemedrony.sk/
 Dočasná „coming soon“ stránka.
 
 ---
