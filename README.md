@@ -51,7 +51,7 @@ Mobilná aplikácia.
 **Stav**
 - Autentifikácia — ✅ Hotové  
 - Zobrazovanie geozón — ✅ Hotové  
-- Zobrazovanie mapy — ✅ Hotové (Prechod na iný mapový systém - 🍊 WIP)
+- Zobrazovanie mapy — ✅ Hotové (možný Prechod na iný mapový systém)
 - Zobrazovanie aktuálneho počasia — ✅ Hotové
 - Nastavenie letovej zóny — ✅ Hotové
 - Pridanie vlastnej zóny — ✅ Hotové
