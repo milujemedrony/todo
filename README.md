@@ -101,11 +101,13 @@ Discord bot pre komunitu.
 
 ---
 
-### 6. `admin-manager` — **Nezačaté** - Nepotrebné pre prvotné spustenie aplikácie
-Interný administračný panel.
+### 6. `api-verify` — **Dokončené** https://api-verify.milujemedrony.sk/
+Webová UI stránka, pre registráciu/obnovu hesla.
 
-**Detaily**
-- Zatiaľ nezverejnené
+Nechcel som to dávať do main-webu, keďže tam sú už blogy :)
+
+**TODO**
+- Všetko potrebné
 
 ---
 
