@@ -83,6 +83,8 @@ Backend API pre celý ekosystém.
 - Zabudnuté heslo — ✅ Hotové  
 
 **TODO**
+- ked sa flightzone dokonci/cancelne tak sa ulozi let do flighthistory a vymaze z flightzones db (vypocitaj actual time)
+- Also aby sa ukladal drone ID nie drone name, a nepojde zmazat drone ked je aktivna flight zone
 
 **Plánované / nápady do budúcna**
 - Verejné profily
