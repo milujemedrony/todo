@@ -58,7 +58,9 @@ Mobilná aplikácia.
 - Zobrazenie informácii o geozóne — ✅ Hotové
 - Podrobné informácie o geozóne (kontakt číslo, prevádzkové hodiny etc...) — ✅ Hotové
 - Nastavenie informácíi o vašom drone — ✅ Hotové
-
+- Registrácia do Aplikácia (NEPOVINNÁ!) — ✅ Hotové
+- Forgot password - 🍊 — ✅ Hotové
+- 
 **TODO**
 - Android support — ✅/🍊 WIP - Aplikácia, má hotový základ pripravený na spustenie pre Android. Avšak nie všetky funkcie aplikácie sú, ešte dokončené, tým pádom niesu na Androide, najskôr sa robí iOS :)
 - Sťahovanie geozón
@@ -67,8 +69,6 @@ Mobilná aplikácia.
 - Implementovať Remote ID "finder?"
 - Zdroje aplikácie (weather data... zone data...)
 - Google/Apple login
-- Registrácia do Aplikácia (NEPOVINNÁ!) - Fixnut inputy na ostatne veci ako (meno atd..) - 🍊 - Finálne úpravy
-- Forgot password - 🍊 - Finálne úpravy
 
 ---
 
