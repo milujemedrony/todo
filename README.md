@@ -68,6 +68,7 @@ Mobilná aplikácia.
 - Zobrazenie flight history vaších zón - 🍊 - Finálne úpravy
 - Zdroje aplikácie (weather data... zone data...)
 - Google/Apple login
+- Opraviť flightzone selection bug
 
 **Plánované / nápady do budúcna**
 - Verejné profily
