@@ -60,15 +60,20 @@ Mobilná aplikácia.
 - Nastavenie informácíi o vašom drone — ✅ Hotové
 - Registrácia do Aplikácia (NEPOVINNÁ!) — ✅ Hotové
 - Forgot password — ✅ Hotové
-
+- Opraviť dark/light mode — ✅ Hotové
+- 
 **TODO**
 - Android support — ✅/🍊 WIP - Aplikácia, má hotový základ pripravený na spustenie pre Android. Avšak nie všetky funkcie aplikácie sú, ešte dokončené, tým pádom niesu na Androide, najskôr sa robí iOS :)
+
 - Sťahovanie geozón
 - Zobrazenie flight history vaších zón - 🍊 - Finálne úpravy
-- Opraviť dark/light mode
-- Implementovať Remote ID "finder?"
 - Zdroje aplikácie (weather data... zone data...)
 - Google/Apple login
+
+**Plánované / nápady do budúcna**
+- Verejné profily
+- Komunita
+- Implementovať Remote ID "finder?"
 
 ---
 
