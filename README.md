@@ -64,7 +64,6 @@ Mobilná aplikácia.
 - 
 **TODO**
 - Android support — ✅/🍊 WIP - Aplikácia, má hotový základ pripravený na spustenie pre Android. Avšak nie všetky funkcie aplikácie sú, ešte dokončené, tým pádom niesu na Androide, najskôr sa robí iOS :)
-
 - Sťahovanie geozón
 - Zobrazenie flight history vaších zón - 🍊 - Finálne úpravy
 - Zdroje aplikácie (weather data... zone data...)
