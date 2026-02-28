@@ -51,7 +51,7 @@ Mobilná aplikácia.
 **Stav**
 - Autentifikácia — ✅ Hotové  
 - Zobrazovanie geozón — ✅ Hotové  
-- Zobrazovanie mapy — ✅ Hotové (možný Prechod na iný mapový systém - asi skôr nie, ale možné to je :) )
+- Zobrazovanie mapy — ✅ Hotové (PRECHOD Z REACT NATIVE MAPS NA MAPBOX - 🍊 WIP)
 - Zobrazovanie aktuálneho počasia — ✅ Hotové
 - Nastavenie letovej zóny — ✅ Hotové
 - Pridanie vlastnej zóny — ✅ Hotové
