@@ -51,7 +51,7 @@ Mobilná aplikácia.
 **Stav**
 - Autentifikácia — ✅ Hotové  
 - Zobrazovanie geozón — ✅ Hotové  
-- Zobrazovanie mapy — ✅ Hotové (možný Prechod na iný mapový systém)
+- Zobrazovanie mapy — ✅ Hotové (možný Prechod na iný mapový systém - asi skôr nie, ale možné to je :) )
 - Zobrazovanie aktuálneho počasia — ✅ Hotové
 - Nastavenie letovej zóny — ✅ Hotové
 - Pridanie vlastnej zóny — ✅ Hotové
@@ -61,11 +61,11 @@ Mobilná aplikácia.
 - Registrácia do Aplikácia (NEPOVINNÁ!) — ✅ Hotové
 - Forgot password — ✅ Hotové
 - Opraviť dark/light mode — ✅ Hotové
+- Zobrazenie flight history vaších zón  — ✅ Hotové
 - 
 **TODO**
 - Android support — ✅/🍊 WIP - Aplikácia, má hotový základ pripravený na spustenie pre Android. Avšak nie všetky funkcie aplikácie sú, ešte dokončené, tým pádom niesu na Androide, najskôr sa robí iOS :)
 - Sťahovanie geozón
-- Zobrazenie flight history vaších zón - 🍊 - Finálne úpravy
 - Zdroje aplikácie (weather data... zone data...)
 - Google/Apple login
 - Opraviť flightzone selection bug
@@ -85,11 +85,8 @@ Backend API pre celý ekosystém.
 - Prijímanie dát z letových zón — ✅ Hotové
 - Odosielanie dát letových zón — ✅ Hotové
 - Registrácia používateľov — ✅ Hotové
+- Flight history — ✅ Hotové
 - Zabudnuté heslo — ✅ Hotové  
-
-**TODO**
-- ked sa flightzone dokonci/cancelne tak sa ulozi let do flighthistory a vymaze z flightzones db (vypocitaj actual time)
-- Also aby sa ukladal drone ID nie drone name, a nepojde zmazat drone ked je aktivna flight zone
 
 **Plánované / nápady do budúcna**
 - Verejné profily
