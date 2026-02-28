@@ -29,7 +29,7 @@ Hlavná verejná webová stránka.
 
 ---
 
-### 2. `geozones-manager` — **WIP** https://geozones.milujemedrony.sk/
+### 2. `geozones-manager` — **WIP** https://geozones.milujemedrony.sk/ - 🍊 WIP - KOMPETNÝ REWORK IN PROCESS
 Webová aplikácia na správu geozón pre drony.
 
 **Stav**
@@ -51,7 +51,7 @@ Mobilná aplikácia.
 **Stav**
 - Autentifikácia — ✅ Hotové  
 - Zobrazovanie geozón — ✅ Hotové  
-- Zobrazovanie mapy — ✅ Hotové (PRECHOD Z REACT NATIVE MAPS NA MAPBOX - 🍊 WIP)
+- Zobrazovanie mapy — ✅ Hotové (PRECHOD Z REACT NATIVE MAPS NA MAPBOX — ✅ Hotové )
 - Zobrazovanie aktuálneho počasia — ✅ Hotové
 - Nastavenie letovej zóny — ✅ Hotové
 - Pridanie vlastnej zóny — ✅ Hotové
@@ -68,7 +68,8 @@ Mobilná aplikácia.
 - Sťahovanie geozón
 - Zdroje aplikácie (weather data... zone data...)
 - Google/Apple login
-- Opraviť flightzone selection bug
+- Opraviť flightzone selection bug - 🍊 WIP - 1/2 done
+- Live activites
 
 **Plánované / nápady do budúcna**
 - Verejné profily
