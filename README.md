@@ -29,8 +29,7 @@ Hlavná verejná webová stránka.
 
 ---
 
-### 2. `geozones-manager` — **WIP** https://geozones.milujemedrony.sk/ - 🍊 WIP - KOMPETNÝ REWORK IN PROCESS
-Webová aplikácia na správu geozón pre drony.
+### 2. `geozones-manager` — **WIP** https://geozones.milujemedrony.sk/ -
 
 **Stav**
 - Autentifikácia — ✅ Hotové  
@@ -39,10 +38,12 @@ Webová aplikácia na správu geozón pre drony.
 - API na sťahovanie geozón — ✅ Hotové  
 - Live preview — ✅ Hotové  
 - Úprava metadát — ✅ Hotové
+- Rework — ✅ Hotové
+- Odosielanie geozón na S3 — ✅ Hotové
+- Generovanie tile súborov — ✅ Hotové
 
 **TODO**:
 - Odstrániť ts-ignore
-- Pridať map tiles generaciu
 ---
 
 ### 3. `mobile` — **WIP** (nezverejnené)
