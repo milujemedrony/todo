@@ -64,13 +64,13 @@ Mobilná aplikácia.
 - Opraviť dark/light mode — ✅ Hotové
 - Zobrazenie flight history vaších zón  — ✅ Hotové
 - Sťahovanie geozón — ✅ Hotové
+- Zdroje aplikácie (weather data... zone data...) — ✅ Hotové
 - 
 **TODO**
 - Android support — ✅/🍊 WIP - Aplikácia, má hotový základ pripravený na spustenie pre Android. Avšak nie všetky funkcie aplikácie sú, ešte dokončené, tým pádom niesu na Androide, najskôr sa robí iOS :)
-
-- Zdroje aplikácie (weather data... zone data...)
 - Google/Apple login
 - Opraviť flightzone selection bug - 🍊 WIP - 1/2 done
+- Opraviť drone Loading ID in active flight zone
 - Live activites
 
 **Plánované / nápady do budúcna**
