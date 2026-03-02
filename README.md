@@ -29,7 +29,7 @@ Hlavná verejná webová stránka.
 
 ---
 
-### 2. `geozones-manager` — **WIP** https://geozones.milujemedrony.sk/ -
+### 2. `geozones-manager` — **WIP** https://geozones.milujemedrony.sk/ - REWORK v2 WIP
 
 **Stav**
 - Autentifikácia — ✅ Hotové  
@@ -63,10 +63,11 @@ Mobilná aplikácia.
 - Forgot password — ✅ Hotové
 - Opraviť dark/light mode — ✅ Hotové
 - Zobrazenie flight history vaších zón  — ✅ Hotové
+- Sťahovanie geozón — ✅ Hotové
 - 
 **TODO**
 - Android support — ✅/🍊 WIP - Aplikácia, má hotový základ pripravený na spustenie pre Android. Avšak nie všetky funkcie aplikácie sú, ešte dokončené, tým pádom niesu na Androide, najskôr sa robí iOS :)
-- Sťahovanie geozón
+
 - Zdroje aplikácie (weather data... zone data...)
 - Google/Apple login
 - Opraviť flightzone selection bug - 🍊 WIP - 1/2 done
