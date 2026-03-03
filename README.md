@@ -23,6 +23,7 @@ Hlavná verejná webová stránka.
 
 **TODO**
 - Kontaktná stránka
+- Podstránky
 
 **Do budúcna**
 - Statická mapa zón aj pre Webové rozhranie (asi nie teraz)
