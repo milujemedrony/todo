@@ -66,16 +66,16 @@ Mobilná aplikácia.
 - Zobrazenie flight history vaších zón  — ✅ Hotové
 - Sťahovanie geozón — ✅ Hotové
 - Zdroje aplikácie (weather data... zone data...) — ✅ Hotové
+- Opraviť drone Loading ID in active flight zone — ✅ Hotové
 - 
 **TODO**
 - Android support — ✅/🍊 WIP - Aplikácia, má hotový základ pripravený na spustenie pre Android. Avšak nie všetky funkcie aplikácie sú, ešte dokončené, tým pádom niesu na Androide, najskôr sa robí iOS :)
 - Google/Apple login
 - Opraviť flightzone selection bug - 🍊 WIP - 1/2 done
-- Opraviť drone Loading ID in active flight zone
-- Live activites
 
 **Plánované / nápady do budúcna**
 - Verejné profily
+- Live activites
 - Komunita
 - Implementovať Remote ID "finder?"
 
