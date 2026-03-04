@@ -12,7 +12,7 @@ Tento repozitár slúži ako prehľad stavu a plánovaných úloh pre všetky re
 
 ## Stav repozitárov
 
-### 1. `main-web` — **WIP** (nezverejnené)
+### 1. `main-web` — **WIP** (nezverejnené) https://web-dev.milujemedrony.sk
 Hlavná verejná webová stránka.
 
 **Stav**
