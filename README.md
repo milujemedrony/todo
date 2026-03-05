@@ -30,7 +30,7 @@ Hlavná verejná webová stránka.
 
 ---
 
-### 2. `geozones-manager` — **WIP** https://geozones.milujemedrony.sk/ - REWORK v2 WIP
+### 2. `geozones-manager` — **Dokončené** https://geozones.milujemedrony.sk/
 
 **Stav**
 - Autentifikácia — ✅ Hotové  
@@ -40,11 +40,11 @@ Hlavná verejná webová stránka.
 - Live preview — ✅ Hotové  
 - Úprava metadát — ✅ Hotové
 - Rework — ✅ Hotové
+- Rework v2 — ✅ Hotové
 - Odosielanie geozón na S3 — ✅ Hotové
 - Generovanie tile súborov — ✅ Hotové
+- Odstrániť ts-ignore — ✅ Hotové
 
-**TODO**:
-- Odstrániť ts-ignore
 ---
 
 ### 3. `mobile` — **WIP** (nezverejnené)
