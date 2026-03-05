@@ -73,6 +73,11 @@ Mobilná aplikácia.
 - Google/Apple login
 - Opraviť flightzone selection bug - 🍊 WIP - 1/2 done
 
+**TODO - KNOWN BUGS FROM TESTERS **
+- Prestalo fungovať pridávanie dronov kvôli neplatnému droneId
+- Rádius sa ukazuje 1km aj keď v DB je menší
+-  
+
 **Plánované / nápady do budúcna**
 - Verejné profily
 - Live activites
