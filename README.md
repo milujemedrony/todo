@@ -70,13 +70,15 @@ Mobilná aplikácia.
 - 
 **TODO**
 - Android support — ✅/🍊 WIP - Aplikácia, má hotový základ pripravený na spustenie pre Android. Avšak nie všetky funkcie aplikácie sú, ešte dokončené, tým pádom niesu na Androide, najskôr sa robí iOS :)
-- Google/Apple login
+- Google/Apple login - 🍊 WIP - 1/2 done
 - Opraviť flightzone selection bug - 🍊 WIP - 1/2 done
+- Keď zóna konfliktuje s inou zónou tak, aby sa ukazala s ktorými pred tým ako začne flight zóna
 
 **TODO - KNOWN BUGS FROM TESTERS **
 - Prestalo fungovať pridávanie dronov kvôli neplatnému droneId
-- Rádius sa ukazuje 1km aj keď v DB je menší
--  
+- Rádius sa ukazuje 1km aj keď v DB je menší, taktiež ho zmeniť z 1500 na 1000
+- Opraviť umiestenie virtual zóny
+- Descriptions from zones sa nezobrazujú správne
 
 **Plánované / nápady do budúcna**
 - Verejné profily
