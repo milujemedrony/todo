@@ -79,6 +79,7 @@ Mobilná aplikácia.
 - Rádius sa ukazuje 1km aj keď v DB je menší, taktiež ho zmeniť z 1500 na 1000
 - Opraviť umiestenie virtual zóny
 - Descriptions from zones sa nezobrazujú správne
+- CTR zony sa nevykresľujú správne
 
 **Plánované / nápady do budúcna**
 - Verejné profily
