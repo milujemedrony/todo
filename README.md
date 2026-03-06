@@ -113,8 +113,8 @@ Webová UI stránka, pre registráciu/obnovu hesla.
 
 Nechcel som to dávať do main-webu, keďže tam sú už blogy :)
 
-**TODO**
-- Všetko potrebné
+**TODO - KNOWN BUGS FROM TESTERS **
+- Nefunguje stránka na iOS Safari!
 
 ---
 
