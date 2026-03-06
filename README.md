@@ -45,6 +45,9 @@ Hlavná verejná webová stránka.
 - Generovanie tile súborov — ✅ Hotové
 - Odstrániť ts-ignore — ✅ Hotové
 
+**TODO - KNOWN BUGS FROM TESTERS**
+- Neukladajú sa duplicitné zóny (Tatry) Datasety na slovensku by som ...... (https://geoportal.gov.sk/gallery/datasets/detail/4c7d3458-4894-4feb-96f8-a9e3b8672e07)
+
 ---
 
 ### 3. `mobile` — **WIP** (nezverejnené)
@@ -74,7 +77,7 @@ Mobilná aplikácia.
 - Opraviť flightzone selection bug - 🍊 WIP - 1/2 done
 - Keď zóna konfliktuje s inou zónou tak, aby sa ukazala s ktorými pred tým ako začne flight zóna
 
-**TODO - KNOWN BUGS FROM TESTERS **
+**TODO - KNOWN BUGS FROM TESTERS**
 - Prestalo fungovať pridávanie dronov kvôli neplatnému droneId
 - Rádius sa ukazuje 1km aj keď v DB je menší, taktiež ho zmeniť z 1500 na 1000
 - Opraviť umiestenie virtual zóny
@@ -89,7 +92,7 @@ Mobilná aplikácia.
 
 ---
 
-### 4. `api.milujemedrony.sk` — **WIP** http://api-dev.milujemedrony.sk/
+### 4. `api.milujemedrony.sk` — **Dokončené** http://api-dev.milujemedrony.sk/
 Backend API pre celý ekosystém.
 
 **Stav**
@@ -111,9 +114,7 @@ Backend API pre celý ekosystém.
 ### 5. `api-verify` — **Dokončené** https://api-verify.milujemedrony.sk/
 Webová UI stránka, pre registráciu/obnovu hesla.
 
-Nechcel som to dávať do main-webu, keďže tam sú už blogy :)
-
-**TODO - KNOWN BUGS FROM TESTERS **
+**TODO - KNOWN BUGS FROM TESTERS**
 - Nefunguje stránka na iOS Safari!
 
 ---
