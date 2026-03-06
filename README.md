@@ -115,7 +115,7 @@ Backend API pre celý ekosystém.
 Webová UI stránka, pre registráciu/obnovu hesla.
 
 **TODO - KNOWN BUGS FROM TESTERS**
-- Nefunguje stránka na iOS Safari!
+- Nefunguje stránka na iOS Safari! — ✅ Opravené: build v17
 
 ---
 
