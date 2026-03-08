@@ -46,7 +46,7 @@ Hlavná verejná webová stránka.
 - Odstrániť ts-ignore — ✅ Hotové
 
 **TODO - KNOWN BUGS FROM TESTERS**
-- Neukladajú sa duplicitné zóny (Tatry) Datasety na slovensku by som ...... (https://geoportal.gov.sk/gallery/datasets/detail/4c7d3458-4894-4feb-96f8-a9e3b8672e07)
+- Neukladajú sa duplicitné zóny (Tatry) — ✅ Hotové (trvalo mi to celý víkend)
 
 ---
 
