@@ -45,6 +45,9 @@ Hlavná verejná webová stránka.
 - Generovanie tile súborov — ✅ Hotové
 - Odstrániť ts-ignore — ✅ Hotové
 
+**TODO:**
+Implementovať automatické sťahovanie geozón zo stránok nsat.sk - https://letectvo.nsat.sk/bezpilotne-letectvo/zemepisne-oblasti-uas/docasne-zemepisne-oblasti-uas/
+
 **TODO - KNOWN BUGS FROM TESTERS**
 - Neukladajú sa duplicitné zóny (Tatry) — ✅ Hotové (trvalo mi to celý víkend)
 
